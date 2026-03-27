@@ -8,4 +8,4 @@
 
 **2. Robot has 2 modes (use key 'Q' to switch):**
 - Mannual mode: control by game pad (key F, B, R, L)
-- Automatic mode: robot will follow a dark line and will stop if met 2 horizontal lines
+- Automatic mode: robot will follow a dark line and will stop if met enough 2 horizontal lines
