@@ -6,6 +6,6 @@
 **1. Robot has 2 speed modes (use key 'A' to switch):**
 - fast mode (100% max speed) & slow mode (50% max speed)
 
-**2. Robot has 2 modes (use key 'Q' to switch):**
+**2. Robot has 2 operational modes (use key 'Q' to switch):**
 - Mannual mode: control by game pad (key F, B, R, L)
 - Automatic mode: robot will follow a dark line and will stop if met enough 2 horizontal lines
