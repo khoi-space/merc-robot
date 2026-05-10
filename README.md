@@ -1,4 +1,5 @@
 # CAR ROBOT USING ARDUINO & BLUETOOTH CONTROLLER APP
+Link Demo: https://youtu.be/6xKeML2GKz8
 ## Technologies:
 - Hardwares: Arduino UNO, module HC-05, motor driver, infrared sensors LM393, servos
 - Softwares: Arduino IDE (for dev), Arduino Bluetooth Control app (for operating)
